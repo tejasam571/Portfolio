@@ -1,0 +1,41 @@
+# Tejas A M Portfolio Website
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejasam571)
+
+This repository contains the source code for my personal **Portfolio Website**, showcasing my skills, projects, and experience as a web developer.
+
+## 💻 Technologies Used
+
+- **HTML5** – Website structure and semantics  
+- **CSS3** – Styling, responsive layouts, and animations  
+- **JavaScript** – Interactive elements and dynamic content  
+
+## 📂 Project Structure
+
+
+
+## 🧪 Features
+
+- **Responsive Design** – Works on desktop, tablet, and mobile devices  
+- **Interactive Elements** – Smooth scrolling, hover effects, and form validation  
+- **Project Showcase** – Display of my key projects with descriptions and links  
+
+## 📥 Installation
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/tejasam571/Portfolio.git
+
+To run this project locally:
+
+2. Navigate to the project folder:
+
+cd Portfolio
